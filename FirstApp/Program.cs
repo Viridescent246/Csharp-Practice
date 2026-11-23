@@ -34,7 +34,7 @@ while (i<5)
 
 }
 
-double avg = sum/(i+1);    
+double avg = sum/(i);    
 
 if (age >= 18)
 {
