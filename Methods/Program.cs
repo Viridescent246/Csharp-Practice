@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-static Boolean isEven(int num)
+static Boolean IsEven(int num)
 {
     if (num % 2 == 0)
     {
@@ -14,7 +14,7 @@ static Boolean isEven(int num)
 Console.WriteLine("Enter a number");
 int number = int.Parse(Console.ReadLine());
 
-if (isEven(number))
+if (IsEven(number))
 {
     Console.WriteLine($"{number} is even");
 }
