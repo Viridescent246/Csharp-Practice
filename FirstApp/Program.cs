@@ -45,4 +45,4 @@ else
     Console.WriteLine("User is a minor");
 }
 
-Console.WriteLine($"Sum is {sum}\nAvergage is {avg}\nLargest Number is {largest}");
+Console.WriteLine($"Sum is {sum}\nAverage is {avg}\nLargest Number is {largest}");
